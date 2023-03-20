@@ -57,7 +57,7 @@ const Header = () => {
           </a>
         </span>
         <a
-          href="https://github.com/Olanetsoft/app-ai-template/"
+          href="https://github.com/ekaone/app-ai-template/"
           target="_blank"
           rel="noreferrer"
         >
