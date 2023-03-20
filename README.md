@@ -1,4 +1,4 @@
-[![Open in GitPod](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/ekaone/app-ai-template) [![GitHub issues](https://img.shields.io/github/issues/Olanetsoft/article-idea-generator)](https://github.com/ekaone/app-ai-template/issues)
+[![Open in GitPod](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/ekaone/app-ai-template) [![GitHub issues](https://img.shields.io/github/issues/ekaone/app-ai-template)](https://github.com/ekaone/app-ai-template/issues)
 [![GitHub forks](https://img.shields.io/github/forks/ekaone/app-ai-template)](https://img.shields.io/github/forks/ekaone/app-ai-template)
 [![GitHub stars](https://img.shields.io/github/stars/ekaone/app-ai-template)](https://img.shields.io/github/stars/ekaone/app-ai-template)
 [![GitHub watchers](https://img.shields.io/github/watchers/Olanetsoft/article-idea-generator?style=label=Watch)](https://github.com/ekaone/app-ai-template)
