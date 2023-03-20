@@ -86,7 +86,7 @@ export default function Home() {
           <title>App AI Template</title>
           <meta
             name="description"
-            content="Using Article Idea Generator can help you get over writer's block. Do you have an idea of where to start? Generate your next article idea with ease."
+            content="Using Idea Generator can help you get over writer's block. Do you have an idea of where to start? Generate your idea with ease."
           />
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           <link rel="icon" href="/favicon.ico" />
