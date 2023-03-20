@@ -97,7 +97,7 @@ export default function Home() {
         {/*body*/}
         <div className="flex flex-col items-center pt-14 w-full px-4 md:px-0 max-w-screen-md">
           <h1
-            className={`${spaceGrotesk.className} text-3xl font-bold text-gray-900 dark:text-zinc-300  sm:leading-9 sm:truncate mb-2 text-center sm:text-4xl lg:text-6xl xl:text-6xl`}
+            className={`${spaceGrotesk.className} text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-br from-indigo-500 via-purple-500 to-pink-500 text-gray-900 sm:leading-9 sm:truncate mb-2 text-center sm:text-4xl lg:text-6xl xl:text-6xl`}
           >
             AI Template Generator
           </h1>
