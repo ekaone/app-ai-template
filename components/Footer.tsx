@@ -13,7 +13,7 @@ export default function Footer() {
         <Link
           href="https://twitter.com/twekaone"
           className="font-bold hover:underline underline-offset-2"
-          aria-label="Olanetsoft on Twitter"
+          aria-label="Eka on Twitter"
         >
           Eka Praetia
         </Link>{" "}
