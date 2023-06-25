@@ -46,7 +46,7 @@ If you like this project, please give it a star ⭐️
 
 ## Contributors 💪
 
-Thanks for spending your time helping `Idea Generator` grow. Happy Hacking 🍻
+Thanks for spending your time helping `AI Template` grow. Happy Hacking 🍻
 
 [![Contributors](https://contrib.rocks/image?repo=ekaone/app-ai-template)](https://github.com/ekaone/app-ai-template/edit/main/README.md)
 
